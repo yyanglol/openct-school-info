@@ -946,5 +946,10 @@
     "cmsSys":"zfsoft",
     "libURL":"http://202.195.136.14:8080/",
     "libSys":"njhuiwen"
+  },
+  {
+    "name": "中南林业科技大学(仅教务网)",
+    "cmsURL": "http://220.168.44.238/",
+    "cmsSys": "zfsoft"
   }
 ]
