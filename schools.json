@@ -487,8 +487,8 @@
   },
   {
     "name": "北京理工大学珠海学院",
-    "cmsURL": "http://jiaowu.zhbit.com/",
-    "cmsSys": "zfsoft",
+    "cmsURL": "http://e.zhbit.com/jsxsd/",
+    "cmsSys": "qzdatasoft",
     "libURL": "http://mylib.zhbit.com:8080/",
     "libSys": "njhuiwen"
   },
@@ -830,7 +830,7 @@
   },
   {
     "name": "南开大学",
-    "cmsURL": "http://222.30.49.10/",
+    "cmsURL": "http://eamis.nankai.edu.cn/",
     "cmsSys": "custom",
     "libURL": "http://222.30.49.141/",
     "libSys": "njhuiwen"
@@ -928,7 +928,7 @@
   },
   {
     "name": "中国矿业大学",
-    "cmsURL": "http://202.119.206.61/",
+    "cmsURL": "http://202.119.206.62/",
     "cmsSys": "zfsoft",
     "libURL": "http://121.248.104.139:8080/",
     "libSys": "njhuiwen"
@@ -941,15 +941,41 @@
     "libSys": "njhuiwen"
   },
   {
-    "name":"苏州大学",
-    "cmsURL":"http://xk.suda.edu.cn/",
-    "cmsSys":"zfsoft",
-    "libURL":"http://202.195.136.14:8080/",
-    "libSys":"njhuiwen"
+    "name": "苏州大学",
+    "cmsURL": "http://xk.suda.edu.cn/",
+    "cmsSys": "zfsoft",
+    "libURL": "http://202.195.136.14:8080/",
+    "libSys": "njhuiwen"
   },
   {
     "name": "中南林业科技大学(仅教务网)",
     "cmsURL": "http://220.168.44.238/",
     "cmsSys": "zfsoft"
+  },
+  {
+    "name": "河南财经政法大学(仅教务网)",
+    "cmsURL": "http://211.67.143.14/jwglxt/",
+    "cmsSys": "zfsoft",
+    "libURL": "http://211.67.133.133/",
+    "libSys": "ilasiii"
+  },
+  {
+    "name": "山东建筑大学(仅图书馆)",
+    "cmsURL":"http://jwfw2.sdjzu.edu.cn/ssfw/login.jsp",
+    "cmsSys":"custom",
+    "libURL":"http://202.194.80.93/",
+    "libSys":"njhuiwen"
+  },
+  {
+    "name":"武汉职业技术学院(仅教务网)",
+    "cmsURL":"http://jwc.cnwtc.cn/",
+    "cmsSys":"zfsoft"
+  },
+  {
+    "name":"郑州大学(仅教务网)",
+    "cmsSys":"custom",
+    "cmsURL":"http://jw.zzu.edu.cn/",
+    "libSys":"exlibris",
+    "libURL":"http://202.197.191.171:8991/F/"
   }
 ]
