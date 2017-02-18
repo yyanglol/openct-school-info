@@ -951,5 +951,12 @@
     "name": "中南林业科技大学(仅教务网)",
     "cmsURL": "http://220.168.44.238/",
     "cmsSys": "zfsoft"
+  },
+  {
+    "name": "华北电力大学",
+    "cmsURL": "http://xuanke.ncepu.edu.cn",
+    "cmsSys": "zfsoft",
+    "libURL": "http://http://202.204.72.4:8080/",
+    "libSys": "njhuiwen"
   }
 ]
