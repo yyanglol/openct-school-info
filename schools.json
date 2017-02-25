@@ -984,5 +984,10 @@
     "cmsSys": "zfsoft",
     "libURL": "http://http://202.204.72.4:8080/",
     "libSys": "njhuiwen"
+  },
+  {
+    "name":"浙江大学城市学院(仅教务网)",
+    "cmsURL":"http://xk.zucc.edu.cn",
+    "cmsSys":"zfsoft"
   }
 ]
