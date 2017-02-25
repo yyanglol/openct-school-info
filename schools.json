@@ -977,5 +977,12 @@
     "cmsURL":"http://jw.zzu.edu.cn/",
     "libSys":"exlibris",
     "libURL":"http://202.197.191.171:8991/F/"
+  },
+  {
+    "name": "华北电力大学",
+    "cmsURL": "http://xuanke.ncepu.edu.cn",
+    "cmsSys": "zfsoft",
+    "libURL": "http://http://202.204.72.4:8080/",
+    "libSys": "njhuiwen"
   }
 ]
