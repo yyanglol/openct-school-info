@@ -999,5 +999,10 @@
     "name":"浙江大学城市学院(仅教务网)",
     "cmsURL":"http://xk.zucc.edu.cn",
     "cmsSys":"zfsoft"
+  },
+  {
+    "name": "华南理工大学",
+    "cmsURL": "http://110.65.10.235/",
+    "cmsSys": "zfsoft"
   }
 ]
