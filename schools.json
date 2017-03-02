@@ -7,6 +7,10 @@
     "libSys": "NISOFT"
   },
   {
+    "name": "厦门理工学院(仅教务网)",
+    "cmsURL": "http://210.34.214.87/default2.aspx",
+    "cmsSys": "zfsoft"
+  {
     "name": "西安科技大学(仅教务网)",
     "cmsURL": "http://59.74.168.16:8989/",
     "cmsSys": "zfsoft"
