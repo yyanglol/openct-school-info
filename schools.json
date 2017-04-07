@@ -1,12 +1,17 @@
 [
   {
+    "name": "武汉科技大学(仅教务网)",
+    "cmsURL": "http://202.114.242.231:8036/default.html",
+    "cmsSys": "zfsoft"
+  },  
+  {
     "name": "安徽大学(仅教务网)",
     "cmsURL": "http://jw1.ahu.cn/",
     "cmsSys": "zfsoft",
     "libURL": "http://210.45.210.6/",
     "libSys": "NISOFT"
   },
-  {
+ {
     "name": "厦门理工学院(仅教务网)",
     "cmsURL": "http://210.34.214.87/default2.aspx",
     "cmsSys": "zfsoft"
