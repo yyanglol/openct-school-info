@@ -1,5 +1,12 @@
 [
   {
+    "name": "厦门大学",
+    "cmsURL": "http://ssfw.xmu.edu.cn/",
+    "cmsSys": "common",
+    "libURL": "http://library.xmu.edu.cn/",
+    "libSys": "common"
+  },
+  {
     "name": "武汉科技大学(仅教务网)",
     "cmsURL": "http://202.114.242.231:8036/default.html",
     "cmsSys": "zfsoft"
