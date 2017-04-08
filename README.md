@@ -2,4 +2,6 @@
 School Configuration for OpenCT
 
 
-add, del or edit your school configuration and make a pull request
+Add, del or edit your school configuration and make a pull request
+
+More detailed configuration should be configured with JSON files in detail directory
