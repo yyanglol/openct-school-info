@@ -1,9 +1,9 @@
 [
   {
-    "name":"中山大学"
-    "cmsSys":"common"
+    "name":"中山大学",
+    "cmsSys":"common",
     "cmsURL":"http://uems.sysu.edu.cn/jwxt/",
-    "libSys":"common"
+    "libSys":"common",
     "libURL":"http://202.116.64.108:8991/F/"
   },
   {
