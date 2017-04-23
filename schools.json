@@ -1033,5 +1033,10 @@
     "name": "闽江学院",
     "cmsURL": "http://211.80.208.93/",
     "cmsSys": "zfsoft"
+  },
+  {
+    "name": "河南工程学院",
+    "cmsURL": "http://125.219.48.21/",
+    "cmsSys": "zfsoft"
   }
 ]
